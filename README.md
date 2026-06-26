@@ -96,10 +96,5 @@ Building end-to-end solutions from the ground up — AI-powered backends, real-t
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sandoval02&show_icons=true&theme=dark)
-
----
 
 *Last updated: June 2026*
