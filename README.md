@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Geoff Sandoval
 
-**Full-Stack Developer | AI/ML Engineer | Mobile Developer**
+**Noob Developer**
 
-Building end-to-end solutions from the ground up — AI-powered backends, real-time mobile apps, and modern admin dashboards.
+Building end-to-end problem from the ground up AI-powered backends, real-time mobile apps, and modern admin dashboards.
 
 ---
 
